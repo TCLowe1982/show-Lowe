@@ -14,5 +14,9 @@ I know that is more of a **meal**, rather than a single dish, but so is pizza. F
 - Green Bean Cassarole
 - Buttermilk Drop Biscuts
 - Sweet Tea
-- Desert of some sort. Perhaps a pie. Choclate Silk is a good choice.
+- Desert of some sort. Perhaps a pie. 
+    - Choclate Silk is a good choice.
+    - Can't go wrong with Pumpkin
+    - Pecan Pie is a classic
+    - Don't feel bad about buying store bought. Some of these are labor intensive, and you've done enough.
 
