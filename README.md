@@ -9,4 +9,10 @@ I know that is more of a **meal**, rather than a single dish, but so is pizza. F
 1. Coat chicken in a mix of seasoned salt, paprika, and black pepper.
 2. Marainate in buttermilk for at least 24 hours in the refrigerator.
 3. Heat crisco or lard over medium high heat. Make sure to use enough to cover the chicken
+4. *This is an incomplete recipie, do not try at home*
+
+- Green Bean Cassarole
+- Buttermilk Drop Biscuts
+- Sweet Tea
+- Desert of some sort. Perhaps a pie. Choclate Silk is a good choice.
 
