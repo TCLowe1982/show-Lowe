@@ -15,3 +15,14 @@ day, and sometimes do with my wife, who also loves Star Wars.![The main three](C
 |Kiera Knightly| She was one of Padme's handmaidens, and their own mothers couldn't tell them apart. Would be funny for her to play Leia |
 |Nathan Fillion| Mal was basicly Han Solo anyways. |
 | Andy Serkis | I could see redoing Chewie as a CGI character, but I find it to be a bit blasphomy. |
+
+***
+## Best Quotes
+
+>Do or Do Not, there is no try.
+>>*Yoda* Star Wars: The Empire Strikes Back
+
+>How are we doing, kid?
+>Same as always.
+>That bad, huh.
+>> *Han Solo and Luke Skywalker* Star Wars: Return of the Jedi
