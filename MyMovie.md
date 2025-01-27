@@ -26,3 +26,45 @@ day, and sometimes do with my wife, who also loves Star Wars.![The main three](C
 >Same as always.
 >That bad, huh.
 >> *Han Solo and Luke Skywalker* Star Wars: Return of the Jedi
+
+***
+## Code Section
+
+The following code snippet is in Dart, a languge I am unfamilar with, but it is for the singleton pattern
+which I am familiar with. Singletons are used for when you need an object to do just one thing, then exit memory, if my memory serves. And if I'm wrong, I'm not being graded on explaining object oriented design patterns and use cases.
+
+```
+class SingletonClass {
+  static final SingletonClass _instance = SingletonClass._internal();
+
+  factory SingletonClass() {
+    return _instance;
+  }
+
+  SingletonClass._internal();
+
+  String property1 = 'Default Property 1';
+  String property2 = 'Default Property 2';
+}
+
+/// Example consuming the singleton class and accessing/manipulating properties
+/// To evaluate the difference between a normal class and a singleton class, comment
+/// out the factory constructor and _instance in SingletonClass and re-run.
+void main() {
+  /// Properties before
+  String property1Before = SingletonClass().property1;
+  String property2Before = SingletonClass().property2;
+
+  print('property1Before: $property1Before'); // Default Property 1
+  print('property2Before: $property2Before'); // Default Property 2
+
+  /// Updating the properties
+  SingletonClass().property1 = 'Updated Property 1';
+  SingletonClass().property2 = 'Updated Property 2';
+
+  /// Properties after
+  print('property1After: ${SingletonClass().property1}'); // Updated Property 1
+  print('property2After: ${SingletonClass().property2}'); // Updated Property 2
+}
+```
+[Code Snippet](https://code.pieces.app/collections/dart)
